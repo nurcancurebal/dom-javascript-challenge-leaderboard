@@ -47,7 +47,6 @@
 
 .buttons-action {
     display: inline-flex;
-    margin-right: 60px;
     justify-content: flex-end;
     align-items: center;
     gap: 7px;
